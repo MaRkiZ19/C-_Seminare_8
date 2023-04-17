@@ -37,7 +37,7 @@ void PrintArray(int[,]matrix)
 
 bool Examination(int n, int m)
 {
-    if (n == m) return true;
+    if (n == m) return true; // Не допасина, ниже эталон
 }
 
 
